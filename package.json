@@ -1,6 +1,9 @@
 {
 	"name": "@stream-io/escape-string-regexp",
 	"version": "5.0.1",
+	"publishConfig": {
+		"access": "public"
+	},
 	"description": "Escape RegExp special characters",
 	"license": "MIT",
 	"repository": "sindresorhus/escape-string-regexp",
